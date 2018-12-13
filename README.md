@@ -1,0 +1,2 @@
+# a
+Go module A
